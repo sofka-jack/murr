@@ -43,5 +43,7 @@ void main()
 		  break;
 		}
 	};
+	cout << "coci";
+
 }
 
